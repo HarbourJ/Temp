@@ -817,6 +817,7 @@ class _0x9d8dda {
       a['result'] == 1 ? console["log"]("账号[" + this["name"] + "]领取抽奖任务[" + T["taskTitle"] + "]奖励获得" + a["data"]["popUp"]["taskRewardName"]) : console["log"]("账号[" + this["name"] + "]领取抽奖任务[" + T["taskTitle"] + "]奖励失败：" + a["error_msg"]);
     } catch(err){
       console.log("奖励领取失败");
+    }
   }
 
   async ["helpInvite"](T) {
