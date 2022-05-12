@@ -5,7 +5,7 @@ Fixed by HarbourJ & 哑剧
 TG: https://t.me/HarbourToulu
 0504版本，内置热心网友的看广告json，已放本人仓库，并已加代理，可直接开跑
 Modified from 东哥, 东哥牛逼！
-Update: 0512版本，修复风控报错问题。
+Update: 0512版本，修复风控报错问题。需要放完整ck，格式：kpn=NEBULA; kpf=ANDROID_PHONE; did=ANDROID_xxxxx; kuaishou.api_st=xxxxx;
 
 重写：
 [task_local]
