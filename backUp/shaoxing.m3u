@@ -1,0 +1,103 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="FM88浙江之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江广播",FM88浙江之声
+http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
+#EXTINF:-1 tvg-id="FM95广播经济" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江广播",FM95经济广播
+http://ali-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
+#EXTINF:-1 tvg-id=",FM96.8音乐调频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江广播",FM96.8音乐调频
+http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
+#EXTINF:-1 tvg-id="FM99.6民生资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江广播",FM99.6民生资讯
+http://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+#EXTINF:-1 tvg-id="FM93交通之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江广播",FM93交通之声
+http://ali-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
+#EXTINF:-1 tvg-id="FM104.5旅游之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江广播",FM104.5旅游之声
+http://ali-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
+#EXTINF:-1 tvg-id="FM107城市之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江广播",FM107城市之声
+http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
+#EXTINF:-1 tvg-id="FM98.8浙江新闻广播" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江广播",FM98.8浙江新闻广播
+http://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
+#EXTINF:-1 tvg-id="绍兴新闻广播FM93.6" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="绍兴广播",绍兴新闻广播FM33.6
+http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+#EXTINF:-1 tvg-id="绍兴交通频率FM94.1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="绍兴广播",绍兴交通频率FM94.1
+http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+#EXTINF:-1 tvg-id="绍兴戏曲音乐FM103.5" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="绍兴广播",绍兴戏曲音乐FM103.5
+http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
+#EXTINF:-1 tvg-id="绍兴新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="绍兴电视",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 tvg-id="绍兴文化影视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="绍兴电视",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-id="绍兴公共频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="绍兴电视",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-1综合
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-2财经
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-3综艺
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-4中文国际
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-5体育
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-6电影
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-7国防军事
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-8电视剧
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-9纪录
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-10科教
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-11戏曲
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001012/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-12社会与法制
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-13新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-14少儿
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-15音乐
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-5+体育赛事
+https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-16奥林匹克
+https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-17农业农村
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="ZheJiangQianJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江钱江
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangMinShengXiuXian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangXiuXian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江休闲
+http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangGuoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangJiaoYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江教育
+http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangLiuXue.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江留学
+http://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangJingJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江经济
+http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIShaoXingYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",绍兴影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIShaoXingZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",绍兴综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 tvg-id="ZheJiangGongGong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江公共
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江卫视
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-id="ZheJiangGuoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangJiaoKeYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangShuMaShiDai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangLiuXue.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江留学
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangJingJiShengHuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
